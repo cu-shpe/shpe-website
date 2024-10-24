@@ -791,6 +791,7 @@ pre code {
 .container:after {
   display: table;
   content: " ";
+
 }
 
 .container:after {
@@ -834,6 +835,7 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+
 }
 
 .row:before,
@@ -908,6 +910,12 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+  
+  
+}
+
+.bottom-margin{
+  margin-bottom: 25px;
 }
 
 .col-xs-1,
